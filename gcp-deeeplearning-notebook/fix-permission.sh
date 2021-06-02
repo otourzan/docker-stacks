@@ -1,0 +1,1 @@
+chown -R "jupyter:jupyter" "/home/jupyter/."
